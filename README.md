@@ -1,5 +1,5 @@
 # SeeVS
-SeeVS (See Vaccine Status) is a free macOS menu bar app that can automatically check for available COVID-19 vaccine appointments at CVS stores.
+SeeVS (See Vaccine Status) is a free and open-source macOS menu bar app that can automatically check for available COVID-19 vaccine appointments at CVS stores.
 <BR><BR>
 **[Download SeeVS for free](https://github.com/x74353/SeeVS/blob/main/DMG/SeeVS.dmg?raw=true)**
 <BR><BR>
